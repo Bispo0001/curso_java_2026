@@ -1,4 +1,4 @@
-package imersaoaojava;
+package imersaoaojava.modulo01_Estrutura_Sequencial;
 
 import java.util.Locale;
 import java.util.Scanner;
