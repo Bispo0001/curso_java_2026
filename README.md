@@ -34,7 +34,7 @@ Fortalecer base sólida em Java para aplicações backend e evolução para Spri
 
 ## 📈 Evolução
 - [x] Estrutura Sequencial
-- [ ] Condicionais
+- [x] Condicionais
 - [ ] Repetição
 - [ ] Arrays-collections
 - [ ] POO
