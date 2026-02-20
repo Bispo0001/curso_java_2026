@@ -12,11 +12,13 @@ Curso focado em fundamentos da linguagem Java, lógica de programação e base p
 - Tipos primitivos
 - Entrada de dados com Scanner
 - Operações matemáticas
+- Resolução de 17 exercícios
 
 ### 🔹 Módulo 02 - Estrutura Condicional
 - Expressões comparativas
 - Expressões lógicas
 - if-else
+- Resolução de 09 exercícios
 
 ### 🔹 Próximos módulos
 - Estruturas condicionais - 
