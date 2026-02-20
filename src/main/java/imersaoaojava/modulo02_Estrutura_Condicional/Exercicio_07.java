@@ -41,7 +41,11 @@ public class Exercicio_07 {
             System.out.println("As coordenadas estão no quadrante: 'Q3'");
         } else if (x > 0 && y < 0){
             System.out.println("As coordenadas estão no quadrante: 'Q4'");
-        }else {
+        } else if (x != 0 && y == 0) {
+            System.out.println("As coordenadas estão no eixo: 'x'");
+        } else if (x == 0 && y != 0) {
+            System.out.println("As coordenadas estão no eixo: 'y'");
+        } else {
             System.out.println("As coordenadas estão na Origem");
         }
     }
