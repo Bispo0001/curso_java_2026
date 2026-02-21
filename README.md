@@ -18,7 +18,7 @@ Curso focado em fundamentos da linguagem Java, lógica de programação e base p
 - Expressões comparativas
 - Expressões lógicas
 - if-else
-- Resolução de 16 exercícios
+- Resolução de 20 exercícios
 
 ### 🔹 Próximos módulos
 - Estruturas condicionais - 
@@ -41,7 +41,7 @@ Fortalecer base sólida em Java para aplicações backend e evolução para Spri
 
 ## 📈 Evolução
 - [x] Estrutura Sequencial
-- [ ] Condicionais
+- [x] Condicionais
 - [ ] Repetição
 - [ ] Arrays-collections
 - [ ] POO
