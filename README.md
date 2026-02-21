@@ -18,7 +18,7 @@ Curso focado em fundamentos da linguagem Java, lógica de programação e base p
 - Expressões comparativas
 - Expressões lógicas
 - if-else
-- Resolução de 10 exercícios
+- Resolução de 16 exercícios
 
 ### 🔹 Próximos módulos
 - Estruturas condicionais - 
