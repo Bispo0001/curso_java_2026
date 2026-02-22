@@ -20,9 +20,13 @@ Curso focado em fundamentos da linguagem Java, lógica de programação e base p
 - if-else
 - Resolução de 20 exercícios
 
-### 🔹 Próximos módulos
-- Estruturas condicionais - 
-- Estruturas de repetição
+### 🔹 Módulo 03 - Estrutura Repetitiva
+- Estrutura repetitiva "enquanto" (while)
+- Estrutura repetitiva "para" (for)
+- Estrutura repetitiva "façaenquanto" (do while)
+- Resolução de 3 exercícios
+
+### 🔹 Próximos módulos 
 - Arrays
 - Orientação a Objetos
 
@@ -42,6 +46,6 @@ Fortalecer base sólida em Java para aplicações backend e evolução para Spri
 ## 📈 Evolução
 - [x] Estrutura Sequencial
 - [x] Condicionais
-- [ ] Repetição
+- [x] Repetição
 - [ ] Arrays-collections
 - [ ] POO
