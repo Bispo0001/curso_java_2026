@@ -5,7 +5,7 @@ Fazer um programa que lê números inteiros até que um zero seja lido. Ao final
 
 import java.util.Scanner;
 
-public class problema_exemplo {
+public class problema_exemplo_While {
     public static void main(String[] args) {
         Scanner tc = new Scanner(System.in);
 
