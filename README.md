@@ -23,7 +23,7 @@ Curso focado em fundamentos da linguagem Java, lógica de programação e base p
 ### 🔹 Módulo 03 - Estrutura Repetitiva
 - Estrutura repetitiva "enquanto" (while)
 - Estrutura repetitiva "para" (for)
-- Estrutura repetitiva "façaenquanto" (do while)
+- Estrutura repetitiva "faça enquanto" (do while)
 - Resolução de 9 exercícios (while)
 - Resolução de 7 exercícios (for)
 
