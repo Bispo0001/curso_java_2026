@@ -25,7 +25,7 @@ Curso focado em fundamentos da linguagem Java, lógica de programação e base p
 - Estrutura repetitiva "para" (for)
 - Estrutura repetitiva "faça enquanto" (do while)
 - Resolução de 10 exercícios (while)
-- Resolução de 15 exercícios (for)
+- Resolução de 16 exercícios (for)
 
 ### 🔹 Próximos módulos 
 - Arrays
