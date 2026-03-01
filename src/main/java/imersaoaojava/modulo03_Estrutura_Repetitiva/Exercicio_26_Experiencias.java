@@ -21,7 +21,7 @@ public class Exercicio_26_Experiencias {
 
         int valor, qtdCobaias, qtdTotal = 0, qtdCoelhos = 0, qtdRatos = 0, qtdSapos = 0;
         double percCoelhos, percRatos, percSapos;
-        String tipo;
+        char tipo;
 
         System.out.print("Digite quantos caos de testes serão analisados: ");
         valor = tc.nextInt();
@@ -29,10 +29,10 @@ public class Exercicio_26_Experiencias {
             System.out.print("Quantidade de cobaias: ");
             qtdCobaias = tc.nextInt();
             System.out.print("Tipo de Cobaia: ");
-            tipo = tc.nextLine();
+            tipo = tc.next().charAt(0);
             qtdTotal =  qtdTotal + qtdCobaias;
 
-            if (tipo == "C"){
+            if (tipo == 'C'){
                 qtdCoelhos = qtdCoelhos + qtdCobaias;
             } else if (tipo == 'R') {
                 qtdRatos = qtdRatos + qtdCobaias;
@@ -41,20 +41,23 @@ public class Exercicio_26_Experiencias {
             } else {
                 System.out.println("Opção de Tipo de cobaia inválida!");
             }
-            percCoelhos = qtdCoelhos / qtdTotal;
-            percRatos = qtdRatos / qtdTotal;
-            percSapos = qtdSapos / qtdTotal;
-
-            System.out.println("Relatorio Final:");
-            System.out.println("Total: " + qtdTotal + " cobaias");
-            System.out.println("Total de coelhos: " + qtdCoelhos);
-            System.out.println("Total de ratos: " + qtdRatos);
-            System.out.println("Total de sapos: " + qtdSapos);
-            System.out.printf("Percentual de coelhos: %.2f", percCoelhos);
-            System.out.printf("Percentual de ratos: %.2f", percRatos);
-            System.out.printf("Percentual de sapos: %.2f", percSapos);
 
         }
+        percCoelhos = (double) qtdCoelhos / (double)qtdTotal * 100;
+        percRatos = (double)qtdRatos / (double) qtdTotal * 100;
+        percSapos = (double)qtdSapos / (double) qtdTotal * 100;
+
+        System.out.println("******************************");
+        System.out.println("Relatorio Final:");
+        System.out.println("******************************");
+        System.out.println("Total: " + qtdTotal + " cobaias");
+        System.out.println("Total de coelhos: " + qtdCoelhos);
+        System.out.println("Total de ratos: " + qtdRatos);
+        System.out.println("Total de sapos: " + qtdSapos);
+        System.out.printf("Percentual de coelhos: %.2f", percCoelhos);
+        System.out.printf("%nPercentual de ratos: %.2f", percRatos);
+        System.out.printf("%nPercentual de sapos: %.2f%n", percSapos);
+        System.out.println("******************************");
 
 
     }
