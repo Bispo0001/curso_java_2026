@@ -27,6 +27,16 @@ Curso focado em fundamentos da linguagem Java, lógica de programação e base p
 - Resolução de 10 exercícios (while)
 - Resolução de 16 exercícios (for)
 
+### 🔹 Módulo 04 - Arrays - Vetores e Matrizes
+- Vetor: coleção de dados
+• Tamanho fixo
+• Arranjo unidimensional
+• Indexada
+• Homogênea
+- Como declarar um vetor?
+- Como acessar os elementos de um vetor?
+- Problema exemplo: ler e imprimir na tela um vetor
+
 ### 🔹 Próximos módulos 
 - Arrays
 - Orientação a Objetos
