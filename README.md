@@ -36,7 +36,7 @@ Curso focado em fundamentos da linguagem Java, lógica de programação e base p
 - Como declarar um vetor?
 - Como acessar os elementos de um vetor?
 - Problema exemplo: ler e imprimir na tela um vetor - ok
-- Resolução de 11 exercícios
+- Resolução de 12 exercícios sobre vetores
 
 ### 🔹 Próximos módulos 
 - Arrays
